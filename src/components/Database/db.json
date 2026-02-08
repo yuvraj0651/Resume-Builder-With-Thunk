@@ -1,0 +1,61 @@
+{
+  "auth": [
+    {
+      "id": "d462",
+      "fullName": "Yuvraj Ganshi",
+      "email": "yuvrajganshi@gmail.com",
+      "password": "Aceinfo@2531",
+      "status": "inactive",
+      "role": "admin",
+      "createdAt": "2/5/2026"
+    },
+    {
+      "id": "bf3b",
+      "fullName": "Balraj Kumar",
+      "email": "balrajkumar@gmail.com",
+      "password": "Aceinfo@123",
+      "status": "Inactive",
+      "role": "user",
+      "createdAt": "2/7/2026"
+    },
+    {
+      "id": "6250",
+      "fullName": "Mohan Kumar",
+      "email": "mohankumar@gmail.com",
+      "password": "Aceinfo@1234",
+      "status": "active",
+      "role": "user",
+      "createdAt": "2/8/2026"
+    }
+  ],
+  "resumes": [
+    {
+      "id": "1770466036063",
+      "fullName": "Yuvraj Ganshi",
+      "email": "yuvrajganshi@gmail.com",
+      "phone": "0987654321",
+      "location": "Mohali, India",
+      "summary": "Hello my name is yuvraj ganshi and i am a frontend developer and i have 2.5 years of experience",
+      "skills": [
+        "React Js",
+        "Javascript"
+      ],
+      "experience": "2.5 Years of Experience",
+      "education": "Master Of Computer Application"
+    },
+    {
+      "id": 1770546695411,
+      "fullName": "Mohan Kumar",
+      "email": "mohankumar@gmail.com",
+      "phone": "77499378732",
+      "location": "Mohali, India",
+      "summary": "Hello my name is Yuvraj Ganshi , I am a Frontend Developer with 2.5 Years of experience",
+      "skills": [
+        "ReactJS",
+        "Javascript"
+      ],
+      "experience": "2.5 Years of Experience",
+      "education": "Master Of Computer Applications"
+    }
+  ]
+}
