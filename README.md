@@ -1,4 +1,4 @@
-# 📄 Resume Builder with Redux Thunk 🚀
+# 📄 Resume Builder with Redux Thunk 
 
 ## 📌 Overview
 A modern Resume Builder application that allows users to create, customize, and preview professional resumes in real-time. Built with scalable architecture using Redux Toolkit and Thunks for efficient state management and dynamic data handling.
