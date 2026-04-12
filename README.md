@@ -1,4 +1,5 @@
 # 📄 Resume Builder with Redux Thunk 
+!]ResumeCraft](https://github.com/user-attachments/assets/ff6f0ea9-1f31-4270-a298-9e11372aadc2)
 
 ## 📌 Overview
 A modern Resume Builder application that allows users to create, customize, and preview professional resumes in real-time. Built with scalable architecture using Redux Toolkit and Thunks for efficient state management and dynamic data handling.
@@ -37,6 +38,11 @@ A modern Resume Builder application that allows users to create, customize, and 
 - Real-time UI synchronization between form and preview
 - Structuring scalable frontend architecture
 - Handling dynamic data flow in large applications
+
+---
+
+## Live Demo -
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=netlify)](https://resumify-builder-app.netlify.app/)
 
 ---
 
