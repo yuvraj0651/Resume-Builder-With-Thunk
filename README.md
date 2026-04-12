@@ -1,5 +1,5 @@
 # 📄 Resume Builder with Redux Thunk 
-!]ResumeCraft](https://github.com/user-attachments/assets/ff6f0ea9-1f31-4270-a298-9e11372aadc2)
+![ResumeCraft](https://github.com/user-attachments/assets/ff6f0ea9-1f31-4270-a298-9e11372aadc2)
 
 ## 📌 Overview
 A modern Resume Builder application that allows users to create, customize, and preview professional resumes in real-time. Built with scalable architecture using Redux Toolkit and Thunks for efficient state management and dynamic data handling.
